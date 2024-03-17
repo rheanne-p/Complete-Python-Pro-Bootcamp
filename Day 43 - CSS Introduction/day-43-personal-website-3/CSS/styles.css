@@ -1,0 +1,18 @@
+body {background-color: #EAF6F6;}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+h1 {color:#66BFBF; font-family:verdana;}
+h3 {color:#66BFBF; font-family:verdana}
+
+p {font-family:arial;}
+li {font-family:arial;}
+th {font-family:arial;}
+td {font-family:arial;}
+label {font-family:arial;}
+
+a {color:#F76B8A;}

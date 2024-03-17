@@ -1,0 +1,14 @@
+{
+    "Facebook": {
+        "email": "example@gmail.com",
+        "password": "facebookpass"
+    },
+    "Twitter": {
+        "email": "example@gmail.com",
+        "password": "twitterpass"
+    },
+    "website123.com": {
+        "email": "example@gmail.com",
+        "password": "pass123"
+    }
+}
